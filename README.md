@@ -108,5 +108,8 @@ This project is an educational prototype and is not intended for production use.
 
 - LinkedIn: [www.linkedin.com/in/chadi-blal-01817236a](http://www.linkedin.com/in/chadi-blal-01817236a)
 
+## Demo
+
+[Watch the demonstration video](./demo.mp4)
 
 
